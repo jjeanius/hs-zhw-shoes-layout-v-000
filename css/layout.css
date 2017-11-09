@@ -18,6 +18,10 @@
   line-height: 0;
 }
 
+.clear {
+  clear:both;
+}
+
 section {
   padding: 4px;
   margin-bottom: 20px;
@@ -56,3 +60,4 @@ section {
 img {
   max-width: 100%;
 }
+
