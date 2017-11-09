@@ -41,7 +41,6 @@ section {
 
   [class*="col-"] {
     margin-left: 5%;
-
   }
 
 .first {
@@ -52,11 +51,7 @@ section {
    margin-right: 10%;
 }
 
-
 img {
   max-width: 100%;
 }
 
-.footer {
-  text-align: right;
-  }
